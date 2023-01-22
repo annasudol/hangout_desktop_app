@@ -1,11 +1,11 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
+  title: 'platform for socialize',
   author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  headerTitle: 'Hangout',
+  description: 'App for creating events and seeking new connections',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://hangout.chat',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
